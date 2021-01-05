@@ -1,57 +1,47 @@
- {
-  "product":[{
-      
+{
+  "product": [
+    {
       "id": 1,
-      "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "category_id": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "description":"quia et suscipit\nsuscipit recusandae consequuntur expedita et cu",
-      "price":20,
-      "is_available":true,
-      "rating":1,
-      "vendor_name":"saif",
-      "warranty":1
+      "productName": "J. Kurta",
+      "categoryid": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cu",
+      "price": 40,
+      "is_available": true,
+      "rating": 1,
+      "prodctImage": "https://i.pinimg.com/originals/a3/7a/8f/a37a8fdb3bc4352b132166f9f4290cd7.jpg",
+      "color": "black",
+      "warranty": 1
     },
-      {
-      
-        "id": 5,
-        "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "category_id": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "description":"quia et suscipit\nsuscipit recusandae consequuntur expedita et cu",
-        "price":20,
-        "is_available":true,
-        "rating":1,
-        "vendor_name":"saif",
-        "warranty":1
-      },
-      {
-      
-        "id": 4,
-        "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "category_id": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "description":"quia et suscipit\nsuscipit recusandae consequuntur expedita et cu",
-        "price":20,
-        "is_available":true,
-        "rating":1,
-        "vendor_name":"saif",
-        "warranty":1
-      },
-      {
-      
-        "id": 2,
-        "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-        "category_id": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-        "description":"quia et suscipit\nsuscipit recusandae consequuntur expedita et cu",
-        "price":20,
-        "is_available":true,
-        "rating":1,
-        "vendor_name":"saif",
-        "warranty":1
-      }
-],
-"Categories": [
-  { "id": 1, "title": "Electronics" },
-  { "id": 2, "title": "Hardware" },
-  { "id": 3, "title": "cosmetics" },
-  { "id": 4, "title": "Cloths" }
-]
+    {
+      "id": 4,
+      "productName": "3 Piece",
+      "category_id": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cu",
+      "price": 30,
+      "is_available": true,
+      "rating": 1,
+      "prodctImage": "https://i.pinimg.com/originals/a3/7a/8f/a37a8fdb3bc4352b132166f9f4290cd7.jpg",
+      "color": "black",
+      "vendor_name": "saif",
+      "warranty": 1
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "title": "Electronics"
+    },
+    {
+      "id": 2,
+      "title": "Hardware"
+    },
+    {
+      "id": 3,
+      "title": "cosmetics"
+    },
+    {
+      "id": 4,
+      "title": "Cloths"
+    }
+  ]
 }
